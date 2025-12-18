@@ -1,7 +1,7 @@
 # PHP Local DB
 
 > Original Repos:   
-> - PHP Local DB: https://github.com/a19836/phplocaldb/   
+> - PHP Local DB: https://github.com/a19836/php-local-db/   
 > - Bloxtor: https://github.com/a19836/bloxtor/
 
 ## Overview
